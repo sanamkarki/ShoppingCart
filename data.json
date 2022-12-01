@@ -1,0 +1,30 @@
+[
+  {
+    "id": "testing1",
+    "name": "Casual Shirt",
+    "price": "$45",
+    "desc": "This is a casual shirt. Let the holidays begin",
+    "img": "images/img-1.jpeg"
+  },
+  {
+    "id": "testing2",
+    "name": "Casual Suit",
+    "price": "$75",
+    "desc": "This is a casual shirt. Be Brave Be Brave Okay ",
+    "img": "images/img-2.jpeg"
+  },
+  {
+    "id": "testing3",
+    "name": "Casual Vest",
+    "price": "$65",
+    "desc": "This is a casual shirt. Don't Give Up Okay Oka",
+    "img": "images/img-3.jpeg"
+  },
+  {
+    "id": "testing4",
+    "name": "Casual Guy",
+    "price": "$450",
+    "desc": "This is a casual shirt. Be Consistent Okay",
+    "img": "images/img-4.jpeg"
+  }
+]
